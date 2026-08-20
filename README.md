@@ -1,13 +1,7 @@
 # 📚 Waraq
  
-**A social reading platform for discovering books, tracking your reading journey, and sharing reviews with other readers.**
- 
-Waraq is a full-stack book platform that combines a personal reading tracker with a social book community.
- 
-Users can discover books, create their own bookshelf, track their reading status, rate and review books, and explore reviews from other readers.
- 
-Waraq is designed to make managing your reading life simple while helping you discover new books and connect with other readers.
- 
+Waraq is a social reading platform where users can discover books, manage their personal bookshelf, track their reading progress, and share reviews and ratings with other readers.
+
 ---
 
 ## ✨ Features
