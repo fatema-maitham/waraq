@@ -105,6 +105,12 @@ Users can discover:
 
 ---
 
+# ERD
+
+![Waraq ERD](./docs/waraq-erd.png)
+
+---
+
 # 🛠️ Technologies Used
 
 ### Backend
