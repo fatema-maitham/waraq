@@ -117,33 +117,26 @@ Users can discover:
 
 ---
 
-# 🛠️ Technologies Used
+## 🛠 Technologies Used
 
-### Backend
-
+* JavaScript
 * Node.js
 * Express.js
-* MongoDB
-* Mongoose
-
-### Frontend
-
-* EJS
-* HTML5
-* CSS3
-* JavaScript
-
-### Authentication & Utilities
-
+* MongoDB & Mongoose
+* EJS (Embedded JavaScript Templates)
+* CSS3 & HTML5
 * express-session
 * bcrypt
 * method-override
 * dotenv
 * morgan
-
-### Development Tools
-
-* Git
-* GitHub
+* Cloudinary (image hosting)
+* Figma
+* Git & GitHub
 
 ---
+
+
+## 🎨 Design
+
+[Waraq Figma Design](YOUR_FIGMA_LINK_HERE)
