@@ -105,13 +105,13 @@ Users can discover:
 
 ---
 
-# 🧩 ERD
+## 🧩 ERD
 
 ![Waraq ERD](./docs/waraq-erd.png)
 
 ---
 
-# 📐 Wireframes
+## 📐 Wireframes
 
 ![Waraq Wireframes](./docs/waraq-wireframes.png)
 
