@@ -1,12 +1,12 @@
-# 📚 Waraq
+# Waraq
  
 Waraq is a social reading platform where users can discover books, manage their personal bookshelf, track their reading progress, and share reviews and ratings with other readers.
 
 ---
 
-## ✨ Features
+## Features
 
-### 👤 User Accounts
+### User Accounts
 
 * Create an account
 * Log in and log out
@@ -14,7 +14,7 @@ Waraq is a social reading platform where users can discover books, manage their 
 * Add a bio and profile image
 * Manage personal content
 
-### 📚 Books
+### Books
 
 * Browse available books
 * View individual book details
@@ -24,7 +24,7 @@ Waraq is a social reading platform where users can discover books, manage their 
 * Search by title or author
 * Filter by genre
 
-### 🔖 Personal Bookshelf
+### Personal Bookshelf
 
 Users can organize books into:
 
@@ -34,7 +34,7 @@ Users can organize books into:
 
 Users can add books to their bookshelf, change their reading status, and remove books.
 
-### ⭐ Reviews & Ratings
+### Reviews & Ratings
 
 Users can:
 
@@ -44,7 +44,7 @@ Users can:
 * Delete their own reviews
 * Read reviews from other users
 
-### 🌎 Community
+### Community
 
 Users can discover:
 
@@ -55,7 +55,7 @@ Users can discover:
 
 ---
 
-# 👥 User Stories
+# User Stories
 
 ## Guest User
 
@@ -105,19 +105,19 @@ Users can discover:
 
 ---
 
-## 🧩 ERD
+## ERD
 
 ![Waraq ERD](./docs/waraq-erd.png)
 
 ---
 
-## 📐 Wireframes
+## Wireframes
 
 ![Waraq Wireframes](./docs/waraq-wireframes.png)
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * JavaScript
 * Node.js
@@ -133,10 +133,3 @@ Users can discover:
 * Cloudinary (image hosting)
 * Figma
 * Git & GitHub
-
----
-
-
-## 🎨 Design
-
-[Waraq Figma Design](YOUR_FIGMA_LINK_HERE)
